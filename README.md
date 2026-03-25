@@ -28,17 +28,17 @@ My flagship project **TalentTrack** is a production-style Applicant Tracking Sys
 **Backend:** Node.js, Express 5, REST APIs  
 **Database:** PostgreSQL, Supabase  
 **Auth:** JWT (access + refresh token rotation)  
-**DevOps:** Docker, Docker Compose, GitHub Actions  
+**DevOps:** Docker, Docker Compose  
 **Hosting:** Vercel, Render  
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [TalentTrack](https://github.com/Krishal-D/ats-project) | Production-style Applicant Tracking System | React · Express · PostgreSQL · Docker |
-| [Finance Tracker](https://github.com/Krishal-D/finance-tracker) | Personal expense and income visualiser | React · JavaScript |
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| [TalentTrack](https://github.com/Krishal-D/ats-project) | Production-style Applicant Tracking System with JWT auth, RBAC, file uploads, and relational DB | React · Express · PostgreSQL · Docker | [Live Demo](https://kd-talenttrack.vercel.app) |
+| [Finlytics](https://github.com/Krishal-D/finance-tracker) | Personal expense and income tracker with data visualisation | React · JavaScript | [Live Demo](https://krishal-finlytics.vercel.app/home) |
 
 ---
 
