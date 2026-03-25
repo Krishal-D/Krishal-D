@@ -15,7 +15,8 @@ Full-stack developer based in Sydney 🇦🇺 | Building and deploying real-worl
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | [TalentTrack](https://github.com/Krishal-D/ats-project) | Production-style Applicant Tracking System with JWT auth, RBAC, file uploads, and relational DB | React · Express · PostgreSQL · Docker | [Live Demo](https://kd-talenttrack.vercel.app) |
-| [Finlytics](https://github.com/Krishal-D/finance-tracker) | Personal expense and income tracker with data visualisation | React · JavaScript | [Live Demo](https://krishal-finlytics.vercel.app/home) |
+| [Finlytics](https://github.com/Krishal-D/finance-tracker) | Personal expense and income tracker with data visualisation | React · JavaScript · Firebase · Chart.js | [Live Demo](https://krishal-finlytics.vercel.app/home) |
+| [Student Wellbeing Platform](https://github.com/Krishal-D/student-wellbeing-platform) | Agile team project — mood tracking, messaging and events platform with JWT auth and Docker | Express · PostgreSQL · Docker · JWT | [Repo](https://github.com/Krishal-D/student-wellbeing-platform) |
 
 ---
 
