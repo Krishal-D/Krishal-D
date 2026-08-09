@@ -63,11 +63,11 @@ I'm a final-year Cybersecurity student at Western Sydney University (ICT — Cyb
 ### Featured Projects
 
 <details open>
-<summary><b>🧠 CogIndex — AI Document Reader</b></summary>
+<summary><b>🧠 Cognidex — AI Document Reader</b></summary>
 <br>
 
 **Stack:** React, TypeScript, Express, PostgreSQL, OpenAI API, JWT, Vercel
-**Links:** [Live](#) · [GitHub](#) <!-- ADD-URL: paste live + repo links -->
+**Links:** [Live](https://cognidex-ai.vercel.app/) · [GitHub](https://github.com/Krishal-D/cognidex-ai)
 
 A full-stack AI document reader where authenticated users upload PDFs, create document-specific conversations, and query their own content in natural language.
 
@@ -81,7 +81,7 @@ A full-stack AI document reader where authenticated users upload PDFs, create do
 <br>
 
 **Stack:** React 19, Express 5, PostgreSQL, JWT, Docker, Vercel, Render
-**Links:** [Live](#) · [GitHub](#) <!-- ADD-URL: paste live + repo links -->
+**Links:** [Live](https://kd-talenttrack.vercel.app/) · [GitHub](https://github.com/Krishal-D/talenttrack)
 
 An applicant tracking system supporting separate candidate and employer workflows.
 
@@ -96,7 +96,7 @@ An applicant tracking system supporting separate candidate and employer workflow
 <br>
 
 **Stack:** React, TypeScript, Express, PostgreSQL, JWT, Jest, Supertest
-**Links:** [Live](#) · [GitHub](#) <!-- ADD-URL: paste live + repo links -->
+**Links:** [Live](https://cartly-b2c.vercel.app) · [GitHub](https://github.com/Krishal-D/b2c-store-fullstack)
 
 A B2C e-commerce platform with transactional checkout logic and automated test coverage.
 
@@ -111,7 +111,7 @@ A B2C e-commerce platform with transactional checkout logic and automated test c
 <br>
 
 **Stack:** Express, EJS, PostgreSQL, Docker, JWT, bcrypt
-**Links:** [GitHub](#) <!-- ADD-URL: paste repo link -->
+**Links:** [GitHub](https://github.com/Krishal-D/student-wellbeing-platform) *(not deployed)*
 
 A 4-person Agile team project covering mood tracking, messaging, events, and alert features.
 
